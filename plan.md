@@ -9,3 +9,4 @@
 5. Order / Find keyed master switch 
 6. Preliminary wiring for box interlock (two switches?)
   * Don't forget to use relay, not MOSFET
+7. Print laser safety stickers and attach to EVERYTHING
